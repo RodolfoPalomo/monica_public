@@ -1,6 +1,7 @@
 plotly
 pandas
-gspread oauth2client
+gspread 
+oauth2client
 google-api-python-client
-down
+gdown
 numpy
