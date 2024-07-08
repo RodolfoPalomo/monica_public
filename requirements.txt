@@ -1,0 +1,7 @@
+plotly
+pandas
+gspread
+oauth2client
+google-api-python-client
+down
+numpy
