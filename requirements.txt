@@ -10,3 +10,5 @@ numpy
 kaleido
 statsmodels
 pydrive
+seaborn
+matplotlib
