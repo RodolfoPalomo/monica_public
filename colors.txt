@@ -79,27 +79,27 @@
     "#808180", "#1B1919", "#A6761D", "#BD3200"
   ],
   "compound_palette": {
-    "acetate": "#1f77b4",
-    "formate": "#d0741e",
-    "ethanol": "#238b45",
-    "propionate": "#a63603",
-    "lactate": "#756bb1",
-    "isobutyrate": "#7b4c38",
-    "butyrate": "#c994c7",
-    "isovalerate": "#6b6b6b",
-    "valerate": "#9e9d24",
-    "caproate": "#0b8a9e"
+    "#1f77b4",
+    "#d0741e",
+    "#238b45",
+    "#a63603",
+    "#756bb1",
+    "#7b4c38",
+    "#c994c7",
+    "#6b6b6b",
+    "#9e9d24",
+    "#0b8a9e"
   },
   "stressed_caproate": {
-    "acetate": "#1f77b4",
-    "formate": "#d0741e",
-    "ethanol": "#238b45",
-    "propionate": "#a63603",
-    "lactate": "#756bb1",
-    "isobutyrate": "#7b4c38",
-    "butyrate": "#c994c7",
-    "isovalerate": "#6b6b6b",
-    "valerate": "#9e9d24",
-    "caproate": "#0b8a9e"
+    "#1f77b4",
+    "#d0741e",
+    "#238b45",
+    "#a63603",
+    "#756bb1",
+    "#7b4c38",
+    "#c994c7",
+    "#6b6b6b",
+    "#9e9d24",
+    "#0b8a9e"
   }
 }
